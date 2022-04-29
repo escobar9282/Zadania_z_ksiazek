@@ -8,7 +8,7 @@ public class Main {
         double r = orb.nextDouble();
         double V = (4.0/3.0) * Math.PI * Math.pow(r, 3);
 
-        System.out.printf("%.2f", V);
+        System.out.printf("%.7f", V);
     }
 }
 //Zadanie 1.4
